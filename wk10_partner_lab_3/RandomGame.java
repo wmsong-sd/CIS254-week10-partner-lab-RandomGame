@@ -1,8 +1,8 @@
 
 /**
 * Description: A console-based mini game program with a Guessing Game and a placeholder for Rock-Paper-Scissors.
-* @author Jonah Dy (menu, isPalindrome, and isAbecedarian)
-* @author Wonmin Song (isPangram and capitalizeFirstLetter)
+* @author Jonah Dy
+* @author Wonmin Song
 * @since 10/20/2025
 */
 
