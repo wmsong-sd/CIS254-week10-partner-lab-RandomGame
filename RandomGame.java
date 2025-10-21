@@ -6,8 +6,8 @@ import java.util.Scanner;
  * "Rock, Paper, Scissors" and "Number Guess."
  * The user can select which game to play from a main menu 
  * 
- * @author Wonmin Song
- * @author Jonah Dy
+ * @author Wonmin Song (Number Guess)
+ * @author Jonah Dy (Menu, Rock Paper Scissors)
  * @since 10/15/2025
  */
 public class RandomGame {
